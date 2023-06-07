@@ -1,0 +1,22 @@
+{
+  "name": "1---introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.9",
+    "wokcommands": "github:AlexzanderFlores/WOKCommands#dev"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
